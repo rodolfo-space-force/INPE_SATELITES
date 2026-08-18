@@ -19,6 +19,7 @@ Para o **AMAZONIA-1**, também foram consideradas informações institucionais d
 Fonte principal:
 
 **INSTITUTO NACIONAL DE PESQUISAS ESPACIAIS – INPE. Satélites lançados ao espaço no âmbito do Programa Nacional de Atividades Espaciais. São José dos Campos: INPE, 2025.**
+https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/satelites-lancados-ao-espaco-no-ambito-do-programa-nacional-de-atividades-espaciais
 
 ## Satélites representados
 
